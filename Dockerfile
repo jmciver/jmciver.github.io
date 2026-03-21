@@ -20,7 +20,6 @@ RUN mkdir -p /home/jekyll && \
   chown -R jekyll:jekyll /home/jekyll && \
   mkdir -p /home/jekyll/gems && \
   chown -R jekyll:jekyll /home/jekyll/gems && \
-  chmod -R u+rwx,g+rwx,o+rwx /home/jekyll/gems && \
   echo '# Install Ruby Gems to ~/gems' >> /home/jekyll/.bashrc && \
   echo 'export GEM_HOME=$HOME/gems' >> /home/jekyll/.bashrc && \
   echo 'export PATH=$HOME/gems/bin:$PATH' >> /home/jekyll/.bashrc
