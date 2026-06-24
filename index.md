@@ -17,6 +17,11 @@ My research is in the area of compiler optimization techniques for both CPU and 
     PLDI 2026. (<a href="https://doi.org/10.1145/3808250">doi</a>)<br/>
     <span style="color:red">Recipient of Distinguished Paper Award.</span><br/>
 </li>
+<li>
+    <strong>Reducing Radiation-Hardened Digital Circuit Power Consumption</strong><br/>
+    <b>J. K. McIver</b> and L. T. Clark<br/>
+    IEEE Transactions on Nuclear Science, vol. 52, no. 6, pp. 2503-2509, Dec. 2005 (<a href="https://doi.org/10.1109/TNS.2005.861082">doi</a>)<br/>
+</li>
 </ol>
 
 ## Interests
