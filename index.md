@@ -4,6 +4,7 @@ I am a Ph.D. student in the [Virginia Tech CS Department](https://cs.vt.edu), wh
 My research is in the area of compiler optimization techniques for both CPU and GPGPU.
 
 - E-mail: jmciver@vt.edu (work), john.mciver.iii@gmail.com (personal)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=VlFwDJwAAAAJ)
 - ORCID: [0009-0003-9641-4506](https://orcid.org/0009-0003-9641-4506)
 
 ## News
