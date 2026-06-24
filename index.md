@@ -1,6 +1,6 @@
 # John McIver
 
-I am a Ph.D. student in the [Virginia Tech CS Department](cs.vt.edu), where I am advised by [Prof. Kirshanthan Sundararajah](https://kirshanthans.github.io/).
+I am a Ph.D. student in the [Virginia Tech CS Department](https://cs.vt.edu), where I am advised by [Prof. Kirshanthan Sundararajah](https://kirshanthans.github.io/).
 My research is in the area of compiler optimization techniques for both CPU and GPGPU.
 
 - E-mail: jmciver@vt.edu (work), john.mciver.iii@gmail.com (personal)
@@ -28,10 +28,10 @@ My research is in the area of compiler optimization techniques for both CPU and 
 
 ## Education
 
-- Ph.D. Student in Computer Science, [Virginia Tech](vt.edu) (2025 - current)
-- M.S. Computer Science, [University of New Mexico](unm.edu) (2019)
-- M.S. Electrical Engineering [Arizona State University](asu.edu) (2006)
-- B.S. Computer Engineering [University of New Mexico](unm.edu) (2003)
+- Ph.D. Student in Computer Science, [Virginia Tech](https://vt.edu) (2025 - current)
+- M.S. Computer Science, [University of New Mexico](https://unm.edu) (2019)
+- M.S. Electrical Engineering [Arizona State University](https://asu.edu) (2006)
+- B.S. Computer Engineering [University of New Mexico](https://unm.edu) (2003)
 
 ## Work Experience
 
