@@ -35,7 +35,7 @@ My research is in the area of compiler optimization techniques for both CPU and 
 <li>
     <strong>Sequential Circuit Design for Radiation Hardened Multiple Voltage Integrated Circuits</strong><br/>
     Lawrence T. Clark, <b>John K. McIver III</b><br/>
-    <a href="https://patentimages.storage.googleapis.com/7f/43/c3/31d0138ef49593/US7622976.pdf">US7622976B2</a> granted 2009-11-24 </br>
+    <a href="https://patentimages.storage.googleapis.com/7f/43/c3/31d0138ef49593/US7622976.pdf">US7622976B2</a> granted 2009-11-24 <br/>
 </li>
 </ol>
 
