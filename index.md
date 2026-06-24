@@ -22,6 +22,11 @@ My research is in the area of compiler optimization techniques for both CPU and 
     <b>J. K. McIver</b> and L. T. Clark<br/>
     IEEE Transactions on Nuclear Science, vol. 52, no. 6, pp. 2503-2509, Dec. 2005 (<a href="https://doi.org/10.1109/TNS.2005.861082">doi</a>)<br/>
 </li>
+<li>
+    <strong>Design and Analysis of the Alliance/University of New Mexico Roadrunner Linux SMP SuperCluster</strong><br/>
+    D. A. Bader, A. B. Maccabe, J. R. Mastaler, <b>J. K. McIver</b> and P. A. Kovatch<br/>
+    ICWC 99. IEEE Computer Society International Workshop on Cluster Computing, Melbourne, VIC, Australia, 1999 (<a href="https://doi.org/10.1109/IWCC.1999.810804">doi</a>)<br/>
+</li>
 </ol>
 
 ## Interests
