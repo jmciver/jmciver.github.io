@@ -54,6 +54,12 @@ My research is in the area of compiler optimization techniques for both CPU and 
 - M.S. Electrical Engineering [Arizona State University](https://asu.edu) (2006)
 - B.S. Computer Engineering [University of New Mexico](https://unm.edu) (2003)
 
+## Conferences & Events
+
+- PLDI 2026 (Distinguished Paper Award)
+- Summer School on Formal Techniques (SSFT), SRI International, 2026
+- Summer School on Formal Techniques (SSFT), SRI International, 2024
+
 ## Work Experience
 
 * 15+ years of commercial software development (C++, Python)
